@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="4" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2b78bab-6426-448a-ad56-f74529df02fd" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Game_of_life" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="generator.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tools/generator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="37">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="automaton.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/automaton.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1050">
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_field.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/test_field.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="field.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/primitives/field.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="903">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Timer.py" />
+        <option value="$PROJECT_DIR$/timer.py" />
+        <option value="$PROJECT_DIR$/example.py" />
+        <option value="$PROJECT_DIR$/cell.py" />
+        <option value="$PROJECT_DIR$/notes" />
+        <option value="$PROJECT_DIR$/read_me" />
+        <option value="$PROJECT_DIR$/test_main.py" />
+        <option value="$PROJECT_DIR$/test_field.py" />
+        <option value="$PROJECT_DIR$/AfterState.py" />
+        <option value="$PROJECT_DIR$/iteration.py" />
+        <option value="$PROJECT_DIR$/field.py" />
+        <option value="$USER_HOME$/PycharmProjects/Game_of_life_UnitTest/test_automaton.py" />
+        <option value="$PROJECT_DIR$/tools/serializator.py" />
+        <option value="$PROJECT_DIR$/tools/serializer.py" />
+        <option value="$PROJECT_DIR$/figure/star1" />
+        <option value="$PROJECT_DIR$/figure/star2" />
+        <option value="$PROJECT_DIR$/figure/block/block2" />
+        <option value="$PROJECT_DIR$/figure/block/block1" />
+        <option value="$PROJECT_DIR$/figure/star/star1" />
+        <option value="$PROJECT_DIR$/figure/star/star2" />
+        <option value="$PROJECT_DIR$/figure/star/star3" />
+        <option value="$PROJECT_DIR$/figure/twister/twister1" />
+        <option value="$PROJECT_DIR$/figure/twister/twister2" />
+        <option value="$PROJECT_DIR$/figure/twister/twister3" />
+        <option value="$PROJECT_DIR$/figure/twister/twister4" />
+        <option value="$PROJECT_DIR$/figure/clock/clock1" />
+        <option value="$PROJECT_DIR$/figure/clock/clock2" />
+        <option value="$PROJECT_DIR$/figure/clock/clock3" />
+        <option value="$PROJECT_DIR$/figure/clock/clock4" />
+        <option value="$PROJECT_DIR$/tools/FigureLoader.py" />
+        <option value="$PROJECT_DIR$/tools/figureLoader.py" />
+        <option value="$PROJECT_DIR$/primitives/iteration.py" />
+        <option value="$PROJECT_DIR$/tools/deserializer.py" />
+        <option value="$USER_HOME$/PycharmProjects/Game_of_life_UnitTest/test_field.py" />
+        <option value="$PROJECT_DIR$/test_deserializer.py" />
+        <option value="$PROJECT_DIR$/tools/deserialize.py" />
+        <option value="$PROJECT_DIR$/test_deserialize.py" />
+        <option value="$PROJECT_DIR$/tools/figureIteration.py" />
+        <option value="$PROJECT_DIR$/tools/tests_authomaton.py" />
+        <option value="$PROJECT_DIR$/tools/generater.py" />
+        <option value="$PROJECT_DIR$/tests_authomaton.py" />
+        <option value="$PROJECT_DIR$/test_automaton.py" />
+        <option value="$PROJECT_DIR$/tools/n.py" />
+        <option value="$PROJECT_DIR$/tests_generete_numbers.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/README" />
+        <option value="$PROJECT_DIR$/window.py" />
+        <option value="$PROJECT_DIR$/tests/test_automaton.py" />
+        <option value="$PROJECT_DIR$/primitives/field.py" />
+        <option value="$PROJECT_DIR$/automaton.py" />
+        <option value="$PROJECT_DIR$/tools/generator.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="150" />
+    <option name="y" value="101" />
+    <option name="width" value="915" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Game_of_life" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Game_of_life" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Game_of_life" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Game_of_life" type="462c0819:PsiDirectoryNode" />
+              <item name="primitives" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Game_of_life" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Game_of_life" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/daria/Desktop/Game_of_life/Game_of_life/tests_generete_numbers.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ftp" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="two.files.diff.last.used.folder" value="$USER_HOME$/PycharmProjects/Game_of_life" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\daria\Desktop\Game_of_life\tests" />
+      <recent name="C:\Users\daria\Desktop\Game_of_life\Game_of_life" />
+      <recent name="C:\Users\daria\Desktop\Game_of_life\Game_of_life\figure\star" />
+      <recent name="C:\Users\daria\Desktop\Game_of_life\Game_of_life\primitives" />
+      <recent name="C:\Users\daria\PycharmProjects\Game_of_life_UnitTest" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\daria\Desktop\Game_of_life\Game_of_life" />
+      <recent name="C:\Users\daria\PycharmProjects\Game_of_life" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Game_of_life" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Unittests for test_automaton.AutomatonTests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Game_of_life" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_automaton.AutomatonTests&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for test_field.FieldTests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Game_of_life" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_field.FieldTests&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for tests_generete_numbers.GenerateNumbersTests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Game_of_life" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests_generete_numbers.GenerateNumbersTests&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for tests.tests_generete_numbers.GenerateNumbersTests.test_from_number_to_field_with__valid_arguments" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Game_of_life" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.tests_generete_numbers.GenerateNumbersTests.test_from_number_to_field_with__valid_arguments&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python tests.Unittests for tests.tests_generete_numbers.GenerateNumbersTests.test_from_number_to_field_with__valid_arguments" />
+      <item itemvalue="Python tests.Unittests for test_automaton.AutomatonTests" />
+      <item itemvalue="Python tests.Unittests for test_field.FieldTests" />
+      <item itemvalue="Python tests.Unittests for tests_generete_numbers.GenerateNumbersTests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python tests.Unittests for tests_generete_numbers.GenerateNumbersTests" />
+        <item itemvalue="Python tests.Unittests for test_field.FieldTests" />
+        <item itemvalue="Python tests.Unittests for test_automaton.AutomatonTests" />
+        <item itemvalue="Python tests.Unittests for tests.tests_generete_numbers.GenerateNumbersTests.test_from_number_to_field_with__valid_arguments" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2b78bab-6426-448a-ad56-f74529df02fd" name="Default" comment="" />
+      <created>1524063282125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524063282125</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_tests_generete_numbers_GenerateNumbersTests_test_from_number_to_field_with__valid_arguments - 2018.10.24 at 19h 13m 02s.xml">
+      <configuration name="Unittests for tests_generete_numbers.GenerateNumbersTests.test_from_number_to_field_with__valid_arguments" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_tests_generete_numbers_GenerateNumbersTests_test_from_number_to_field_with__valid_arguments - 2018.10.24 at 19h 13m 13s.xml">
+      <configuration name="Unittests for tests_generete_numbers.GenerateNumbersTests.test_from_number_to_field_with__valid_arguments" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_tests_generete_numbers_GenerateNumbersTests_test_from_number_to_field_with__valid_arguments - 2018.10.24 at 19h 13m 23s.xml">
+      <configuration name="Unittests for tests_generete_numbers.GenerateNumbersTests.test_from_number_to_field_with__valid_arguments" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_tests_generete_numbers_GenerateNumbersTests_test_from_number_to_field_with__valid_arguments - 2018.10.24 at 19h 14m 25s.xml">
+      <configuration name="Unittests for tests_generete_numbers.GenerateNumbersTests.test_from_number_to_field_with__valid_arguments" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_tests_generete_numbers_GenerateNumbersTests_test_from_number_to_field_with__valid_arguments - 2018.10.24 at 19h 32m 23s.xml">
+      <configuration name="Unittests for tests_generete_numbers.GenerateNumbersTests.test_from_number_to_field_with__valid_arguments" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_tests_generete_numbers_GenerateNumbersTests_test_from_number_to_field_with__valid_arguments - 2018.10.24 at 19h 32m 50s.xml">
+      <configuration name="Unittests for tests_generete_numbers.GenerateNumbersTests.test_from_number_to_field_with__valid_arguments" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_automaton_AutomatonTests - 2018.10.26 at 07h 22m 23s.xml">
+      <configuration name="Unittests for test_automaton.AutomatonTests" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_automaton_AutomatonTests - 2018.10.26 at 07h 23m 48s.xml">
+      <configuration name="Unittests for test_automaton.AutomatonTests" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_field_FieldTests - 2018.10.26 at 07h 24m 56s.xml">
+      <configuration name="Unittests for test_field.FieldTests" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_tests_generete_numbers_GenerateNumbersTests - 2018.10.26 at 07h 25m 05s.xml">
+      <configuration name="Unittests for tests_generete_numbers.GenerateNumbersTests" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4968789" visible="true" weight="0.19518378" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.17375" side_tool="true" weight="0.327654" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" x="743" y="181" width="816" height="456" id="Run" order="2" sideWeight="0.82625" type="WINDOWED" weight="0.17431192" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Favorites" order="2" sideWeight="0.5031211" side_tool="true" weight="0.114375" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4395887" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32958803" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32904884" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32904884" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" x="410" y="237" width="816" height="456" id="Run" order="2" sideWeight="0.82625" type="WINDOWED" weight="0.17431192" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4968789" visible="true" weight="0.19518378" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32958803" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4395887" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.17375" side_tool="true" weight="0.327654" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" sideWeight="0.5031211" side_tool="true" weight="0.114375" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="40" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/window.py" />
+    <entry file="file://$PROJECT_DIR$/README" />
+    <entry file="file://$PROJECT_DIR$/automaton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primitives/field.py" />
+    <entry file="file://$PROJECT_DIR$/primitives/cell.py" />
+    <entry file="file://$PROJECT_DIR$/main.py" />
+    <entry file="file://$PROJECT_DIR$/README" />
+    <entry file="file://$PROJECT_DIR$/automaton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primitives/field.py" />
+    <entry file="file://$PROJECT_DIR$/primitives/cell.py" />
+    <entry file="file://$PROJECT_DIR$/state_of_cell.py" />
+    <entry file="file://$PROJECT_DIR$/body.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/curses/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5746">
+          <caret line="338" column="65" lean-forward="true" selection-start-line="338" selection-start-column="65" selection-end-line="338" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example.py" />
+    <entry file="file://$PROJECT_DIR$/figures/star" />
+    <entry file="file://$PROJECT_DIR$/figures/star/star2" />
+    <entry file="file://$PROJECT_DIR$/figures/star/star3" />
+    <entry file="file://$PROJECT_DIR$/figures/star/star1" />
+    <entry file="file://$PROJECT_DIR$/figures/twister/twister1" />
+    <entry file="file://$PROJECT_DIR$/figures/twister/twister4" />
+    <entry file="file://$PROJECT_DIR$/figures/clock/clock2" />
+    <entry file="file://$PROJECT_DIR$/figures/clock/clock3" />
+    <entry file="file://$PROJECT_DIR$/figures/clock/clock4" />
+    <entry file="file://$PROJECT_DIR$/figures/clock/clock1" />
+    <entry file="file://$PROJECT_DIR$/figures/block/block1" />
+    <entry file="file://$PROJECT_DIR$/figures/block/block2" />
+    <entry file="file://$PROJECT_DIR$/figures/twister/twister2" />
+    <entry file="file://$PROJECT_DIR$/figures/twister/twister3" />
+    <entry file="file://$PROJECT_DIR$/primitives/iteration.py" />
+    <entry file="file://$PROJECT_DIR$/tools/deserialize.py" />
+    <entry file="file://$PROJECT_DIR$/tools/figureIteration.py" />
+    <entry file="file://$PROJECT_DIR$/tests_authomaton.py" />
+    <entry file="file://$PROJECT_DIR$/test_deserialize.py" />
+    <entry file="file://$PROJECT_DIR$/tools/n.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12411">
+          <caret line="604" selection-start-line="604" selection-end-line="604" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/sre_compile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="544" column="13" lean-forward="true" selection-start-line="544" selection-start-column="13" selection-end-line="544" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="211" selection-start-line="211" selection-end-line="211" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/1824611294/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="732" column="8" selection-start-line="732" selection-start-column="8" selection-end-line="732" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primitives/cell.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes" />
+    <entry file="file://$PROJECT_DIR$/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/window.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timer.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_automaton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tests_generete_numbers.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/automaton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_field.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primitives/field.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="903">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
